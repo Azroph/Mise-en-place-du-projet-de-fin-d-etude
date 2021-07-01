@@ -1,0 +1,40 @@
+Idées du thème (non définitif):
+type de site : Site vitrine dynamique
+
+-Présentation d'un studio de musique.
+-Site d'actualités sur les cryptomonnaies avec appel d'api
+-Site de vente d'instrument de musique entre particuliers
+
+BUDGET: 50 à 100 euros (hébergement + nom de domaine du site internet)
+DELAI: 6 mois pour le site web et 6 mois pour l'app mobile
+
+Dates clés de réalisation du projet: 
+
+-1er au 10 Juillet: Choix du sujet du projet de fin d'étude
+	
+-11 Juillet au 31 Aout: Maquettes du site (Ordinateur et mobile)
+
+-1er au 30 Septembre SPRINT 1: Mise en place du back office
+
+-1er au 30 Octobre SPRINT 2: Dev Front React
+
+-1er au 30 Novembre SPRINT 3: Fin Dev front react + Rentrer du vrai contenu 
+
+-1er au 24 Decembre SPRINT 4: CSS + pauffinement du site (cookie, sécurité, etc..)
+
+-1er Janvier : Si il reste du temps, dev mobile avec React native d'une appli en lien avec le site web
+
+
+Technologies utilisés pour ce projet:
+
+-Html
+-Css
+-Sass
+-Bootstrap
+-WorpdPress
+-PHP
+-PhpmyAdmin
+-React
+-JSx
+-React Native
+-Gestion de projet Agile
